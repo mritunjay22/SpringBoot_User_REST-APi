@@ -1,0 +1,19 @@
+REST LIST
+
+/createuser    create user
+
+/deleteuser/{id}  delete user
+
+/updateuser      update user
+
+/createuser/multiple    create multiple user
+
+/getuser        get all user
+
+getuser/{id}      get user by id
+
+/countuser          count total number of user
+
+/getuser/name/{name}     get by user name
+
+/getuser/email/{email}    get user by email
